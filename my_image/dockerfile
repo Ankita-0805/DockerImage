@@ -7,4 +7,4 @@ WORKDIR /app
 
 RUN npm install 
 
-CMD ["node", "server.jsd"]
+CMD ["node", "server.js"]
